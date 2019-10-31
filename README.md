@@ -3,7 +3,7 @@ Halloween special (discord bot)
 
 <img>[![Shop](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde2.PNG)](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde2.PNG)
 
-<img>[![Shop2](https://wad0.000webhostapp.com/images/Halloween%20bot/image1.png)](https://wad0.000webhostapp.com/images/Halloween%20bt/image1.png)
+<img>[![Shop2](https://wad0.000webhostapp.com/images/Halloween%20bot/image1.png)](https://wad0.000webhostapp.com/images/Halloween%20bot/image1.png)
 
 
 Invite it to your server here: 
