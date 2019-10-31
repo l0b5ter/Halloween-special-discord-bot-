@@ -1,7 +1,7 @@
 # Halloween-special-discord-bot-
 Halloween special (discord bot)
 
-<img>[![Shop](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde1.PNG)](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde1.PNG)
+<img>[![Shop](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde2.PNG)](https://wad0.000webhostapp.com/images/Halloween%20bot/Skjermbilde2.PNG)
 
 <img>[![Shop2](https://wad0.000webhostapp.com/images/Halloween%20bot/image1.png)](https://wad0.000webhostapp.com/images/Halloween%20bt/image1.png)
 
