@@ -12,4 +12,4 @@ https://discordapp.com/oauth2/authorize?client_id=631153903655976980&scope=bot&p
 No shards yet :(
 
 
-
+Code will be given out here soon....
