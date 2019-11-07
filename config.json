@@ -1,0 +1,21 @@
+{
+	"token": "NjMxMTUzOTAzNjU1OTc2OTgw.XZyuBg.y7sfmgNljjfKO_b42I8NgRkmAlk",
+	"Prefix": "Candy",
+	"intervall": 86400000,
+	"ChannelPost": "botzone",
+	"PicArray": 15,
+	"CandyDrop": 7,
+	"Role1": "pumpkin",
+	"Role1_": "ðŸŽƒ",
+	"Role1Price": 5,
+	"Role2": "devil",
+	"Role2_": "ðŸ˜ˆ", 
+	"Role2React": "ðŸ”¥",
+	"Role2Price": 25,
+	"Role2": "ghost",
+	"Role2_": "ðŸ‘»", 
+	"Role2Price": 50,
+	"RoleNoDm": "DontDisturbMEE!",
+	"ServerOwner": "268635420386918401"
+	
+}
