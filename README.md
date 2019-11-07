@@ -25,5 +25,5 @@ take a goooooood look in the config.json before doing anything, it goood everyth
 Want to remove or add more pics? name the pics numbers and place them into the pics folder, then in the config.json you see something named PicArray this is the last number on your pic in the folder.
 intervall is in milliseconds btw.
 
-Ok ok, i think you can figure out the rest, so good luck and dont be afraid to ask me^^
+Ok ok, i think you can figure out the rest. So good luck and dont be afraid to ask me^^
 
