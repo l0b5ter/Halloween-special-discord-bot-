@@ -27,3 +27,7 @@ intervall is in milliseconds btw.
 
 Ok ok, i think you can figure out the rest. So good luck and dont be afraid to ask me^^
 
+
+
+#### Wanna support my work?                                                    
+[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/bePatron?u=31657981)
